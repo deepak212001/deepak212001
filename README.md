@@ -3,10 +3,10 @@ I'm a Software Developer, and MCA (SE) student at the University School of Infor
 
 
 My skills include :
-🔹️Programming Language: C++, C, Python
-🔹️Problem Solving Skills: Data structure & Algorithms , OOPs ,
-🔹️Web Development: HTML5, CSS3, Javascript
-🔹️Database: MySQL
-🔹️Operating System: Windows
+🔹️Programming Language: C++, C, Python                                           
+🔹️Problem Solving Skills: Data structure & Algorithms , OOPs ,                               
+🔹️Web Development: HTML5, CSS3, Javascript                                  
+🔹️Database: MySQL                                                     
+🔹️Operating System: Windows                                        
 
 🌱 I’m currently learning more about Frontend Development.
