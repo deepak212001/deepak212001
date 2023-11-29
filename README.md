@@ -1,5 +1,5 @@
 Hi, I'm Deepak Yadav
-I'm a Software Developer, and MCA (SE) student at the University School of Information, Communication and Technology (USICT), GGSIP University, Delhi. F
+I'm a Software Developer, and MCA (SE) student at the University School of Information, Communication and Technology (USICT), GGSIP University, Delhi. 
 
 
 My skills include :
