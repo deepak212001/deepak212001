@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @deepak212001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Deepak Yadav
+I'm a Software Developer, and MCA (SE) student at the University School of Information, Communication and Technology (USICT), GGSIP University, Delhi. F
 
-<!---
-deepak212001/deepak212001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My skills include :
+🔹️Programming Language: C++, C, Python
+🔹️Problem Solving Skills: Data structure & Algorithms , OOPs ,
+🔹️Web Development: HTML5, CSS3, Javascript
+🔹️Database: MySQL
+🔹️Operating System: Windows
+
+🌱 I’m currently learning more about Frontend Development.
