@@ -4,48 +4,23 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
 ## 🔗 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepakyadav24/)  
-- 🧠 [LeetCode](https://leetcode.com/deepakyadav21/)
-- [Portfolio](https://deepakyadav.vercel.app/) 
+- 💼 [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
+- 🧠 [[LeetCode](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/deepakyadav21/)
+-    [Portfolio](https://deepakyadav.vercel.app/) 
 
 
 ---
 
 ## 💻 Tech Skills
 
-### 👨‍💻 Languages
-- C / C++
-- JavaScript
-
-### 🌐 Web & App Development
-- ReactJS
-- React Native
-- Node.js
-- Express.js
-- Redux
-
-### 🗄️ Databases
-- MongoDB
-- SQL
-
-### 📚 CS Fundamentals
-- Data Structures & Algorithms (DSA)
-- Object Oriented Programming (OOPs)
-- DBMS
-- Operating Systems
-- Computer Networks
-
-### 🛠 Tools & Platforms
-- VS Code
-- Git & GitHub
-- Postman
-
----
 <p align="center">
   <!-- Languages -->
+  ### 👨‍💻 Languages
+  
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
+  
+  ### 🌐 Web & App Development
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -56,10 +31,12 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 
   <!-- Databases -->
+  ### 🗄️ Databases
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
   <!-- CS Fundamentals -->
+  ### 📚 CS Fundamentals
   <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge" alt="DSA"/>
   <img src="https://img.shields.io/badge/OOPs-8A2BE2?style=for-the-badge" alt="OOPs"/>
   <img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" alt="DBMS"/>
@@ -67,6 +44,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
   <img src="https://img.shields.io/badge/Computer%20Networks-FF4500?style=for-the-badge" alt="Computer Networks"/>
 
   <!-- Tools -->
+  ### 🛠 Tools & Platforms
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
