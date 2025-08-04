@@ -3,11 +3,18 @@
 I'm a passionate Full Stack Developer skilled in MERN stack and mobile development using React Native. I enjoy building scalable web and mobile applications, solving DSA problems, and continuously learning new technologies.
 
 ## 🔗 Connect with me
-<p align="centre"  >
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
-  - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakyadav21/)
-  - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepakyadav.vercel.app/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepakyadav24/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/deepakyadav21/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://deepakyadav.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
+
 
 ---
 
