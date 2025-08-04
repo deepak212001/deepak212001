@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
 - 🧠 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakyadav21/)
--    [Portfolio](https://deepakyadav.vercel.app/) 
+-    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepakyadav.vercel.app/) 
 
 
 ---
@@ -46,6 +46,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
   <!-- Tools -->
   ### 🛠 Tools & Platforms
+  <p align="left" padding="10">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -58,12 +59,6 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 **Master of Computer Applications (MCA)**  
 University School of Information, Communication & Technology (USICT)  
 **CGPA:** 8.52
-
----
-
-## 📈 GitHub Stats (Optional)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-deepak212001&show_icons=true&theme=radical)
 
 ---
 
