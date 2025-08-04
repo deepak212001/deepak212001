@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 ## 🔗 Connect with me
 
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
-- 🧠 [![LeetCode](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/deepakyadav21/)
+- 🧠 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakyadav21/)
 -    [Portfolio](https://deepakyadav.vercel.app/) 
 
 
@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
 ## 💻 Tech Skills
 
-<p align="center">
+
   <!-- Languages -->
   ### 👨‍💻 Languages
 <p align="left">
@@ -51,7 +51,7 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-</p> 
+
 
 ## 🎓 Education
 
@@ -63,7 +63,7 @@ University School of Information, Communication & Technology (USICT)
 
 ## 📈 GitHub Stats (Optional)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-deepak212001&show_icons=true&theme=radical)
 
 ---
 
