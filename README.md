@@ -1,11 +1,59 @@
-Hi, I'm Deepak Yadav
-I'm a Software Developer, and MCA (SE) student at the University School of Information, Communication and Technology (USICT), GGSIP University, Delhi. 
+# 👋 Hi, I'm Deepak Yadav
+
+I'm a passionate Full Stack Developer skilled in MERN stack and mobile development using React Native. I enjoy building scalable web and mobile applications, solving DSA problems, and continuously learning new technologies.
+
+## 🔗 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepakyadav24/)  
+- 🧠 [LeetCode](https://leetcode.com/deepakyadav21/)
+- [Portfolio] (https://deepakyadav.vercel.app/) 
 
 
-My skills include :
-🔹️Programming Language: C++, C, Javascript                                           
-🔹️Computer Science Core: Data structure & Algorithms, OOPs, DBMS, Operating System, Software Engineering                                
-🔹️Web Development: HTML5, CSS3, Tailwind CSS, ReactJS, NodeJS, ExpressJs                                  
-🔹️Database: MySQL, MongoDB, Mongoose                                                    
-🔹️Operating System: Windows                                        
+---
 
+## 💻 Tech Skills
+
+### 👨‍💻 Languages
+- C / C++
+- JavaScript
+
+### 🌐 Web & App Development
+- ReactJS
+- React Native
+- Node.js
+- Express.js
+- Redux
+
+### 🗄️ Databases
+- MongoDB
+- SQL
+
+### 📚 CS Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object Oriented Programming (OOPs)
+- DBMS
+- Operating Systems
+- Computer Networks
+
+### 🛠 Tools & Platforms
+- VS Code
+- Git & GitHub
+- Postman
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+University School of Information, Communication & Technology (USICT)  
+**CGPA:** 8.52
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting my profile!_
