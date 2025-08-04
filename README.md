@@ -16,12 +16,12 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
   <!-- Languages -->
   ### 👨‍💻 Languages
-<p align="left" padding="10" >
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <p align="left"  >
+    <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </p> 
   ### 🌐 Web & App Development
-  <p align="left" padding="100">
+  <p align="left" >
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
@@ -32,26 +32,26 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
   <!-- Databases -->
   ### 🗄️ Databases
   <p align="left" padding="10">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p> 
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </p> 
   <!-- CS Fundamentals -->
   ### 📚 CS Fundamentals
-  <p align="left"  padding="10">
-  <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge" alt="DSA"/>
-  <img src="https://img.shields.io/badge/OOPs-8A2BE2?style=for-the-badge" alt="OOPs"/>
-  <img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/OS-20B2AA?style=for-the-badge" alt="Operating System"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-FF4500?style=for-the-badge" alt="Computer Networks"/>
-
+  <p align="left" >
+    <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge" alt="DSA"/>
+    <img src="https://img.shields.io/badge/OOPs-8A2BE2?style=for-the-badge" alt="OOPs"/>
+    <img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" alt="DBMS"/>
+    <img src="https://img.shields.io/badge/OS-20B2AA?style=for-the-badge" alt="Operating System"/>
+    <img src="https://img.shields.io/badge/Computer%20Networks-FF4500?style=for-the-badge" alt="Computer Networks"/>
+   </p> 
   <!-- Tools -->
   ### 🛠 Tools & Platforms
-  <p align="left" padding="10">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </p>
 
 
 ## 🎓 Education
