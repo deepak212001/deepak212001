@@ -29,13 +29,14 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 📚 CS Fundamentals
+### 📚 CS Fundamentals 
 <p align="left">
   <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOPs-8A2BE2?style=for-the-badge"/>
