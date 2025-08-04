@@ -5,8 +5,9 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/deepakyadav24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:20px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/deepakyadav21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
