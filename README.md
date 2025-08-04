@@ -4,8 +4,8 @@ I'm a passionate Full Stack Developer skilled in MERN stack and mobile developme
 
 ## 🔗 Connect with me
 
-- 💼 [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
-- 🧠 [[LeetCode](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/deepakyadav21/)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav24/)  
+- 🧠 [![LeetCode](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/deepakyadav21/)
 -    [Portfolio](https://deepakyadav.vercel.app/) 
 
 
